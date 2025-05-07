@@ -174,5 +174,3 @@ oracle.write("""
 - [Kayo145v@gmail.com]
 
 ---
-
-**Bom estudo!** Se encontrar erros ou tiver sugestões, só enviar no e-mail!*
