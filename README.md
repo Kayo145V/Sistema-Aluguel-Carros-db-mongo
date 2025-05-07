@@ -5,6 +5,11 @@ Estudo pessoal sobre sistema em Python para gerenciar aluguel de carros, com CRU
 
 Aplicação acadêmica em **Python 3.8+** que gerencia **clientes, categorias, carros e alocações** de veículos, utilizando simultaneamente **MongoDB** (NoSQL) e **Oracle XE** (SQL).
 
+# Vídeo de Demonstração
+
+Veja o vídeo de demonstração aqui: 
+[https://www.youtube.com/watch?v=gjeIX5d8dhg](https://www.youtube.com/watch?v=gjeIX5d8dhg)
+
 ---
 
 ## 📁 Organização do Repositório
